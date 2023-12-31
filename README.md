@@ -1,27 +1,26 @@
 # Hello! 👋 I'm Baidikov Roman 🇺🇦
 
-I'm an 18-year-old passionate developer on a journey to explore and master the world of web development to become a FullStack developer. My **skills** include:
+I'm an 18-year-old passionate developer on a journey to explore and master the world of web development to become a FullStack developer. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pug,sass,ts,react,vite,vue,nodejs)](https://skillicons.dev)
+## My **skills** include :
 
-## About Me
+[![](https://skillicons.dev/icons?i=js,html,css,pug,sass,ts,react,vite,vue,nodejs)](https://skillicons.dev)
 
-I started learning code when I was 13. I even learned new skills from such a simple project. 
+## I often use :
+[![](https://skillicons.dev/icons?i=vscode,figma,react,ts,git)](https://skillicons.dev)
 
-I decided to leave my old project on my Github. To be honest, this "creation" makes me laugh now, but in the past, I was quite proud to have "mastered" CSS and HTML. Now, I'm moving on. I'm diving into React, TypeScript, JavaScript, and so on.
+## About my expirience :
 
-### Exploring the Code Universe
+I started learning code when I was 13. I even learned new skills from such a [simple project](https://github.com/baidikov-roman-mi/my-first-webpage-in-13-years). To be honest, this "creation" makes me laugh now
 
-I find joy in exploring code, experimenting with different problems and solving them with "wild passion". 
+But, `I'm moving on`. I'm mostly diving into [React](https://react.dev/learn), [TypeScript](https://www.typescriptlang.org/docs/) and so on. You can see my [newest done project](https://github.com/baidikov-roman-mi/react-minesweeper) to see that
 
-My goal is not just to write code, but also to gain new communication and technical skills in the company of other programmers to fully dive into the world of web programming.
+## Future vision :
 
-### Passion for Innovation
+I want to become more skilled, so I want to learn in the coming years:
 
-Driven by a passion for innovation, I am constantly looking for new ideas and creative approaches to solving problems. 
+[![](https://skillicons.dev/icons?i=go,next,postman,py,redux)](https://skillicons.dev)
 
-Whether it's front-end development with React and TypeScript or back-end development with Node.js, I'm always ready for a challenge.
+## Exploring the Code Universe :
 
-### Current Focus
-
-Currently, I am focused in React, TypeScript and Node.js. In future I want to learn Go, SQL and so on.
+I find joy in finding different problems and `solving them with "wild passion"`
