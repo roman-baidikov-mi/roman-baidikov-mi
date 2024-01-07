@@ -48,6 +48,9 @@
     <a href='https://git-scm.com/about' title="Git">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="42" width="42" alt="git logo"  />
     </a>
+    <a href='https://vitejs.dev/' title="Vite">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="42" width="42" alt="git logo"  />
+    </a>
 
 <br /><br />
 
