@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=34&duration=3000&pause=3000&center=true&vCenter=true&repeat=true&random=false&width=900&height=90&lines=+Hello!+%F0%9F%91%8B+I'm+Baidikov+Roman+%F0%9F%87%BA%F0%9F%87%A6+)](https://git.io/typing-svg)
 
+[![wakatime](https://wakatime.com/badge/user/018cd3d5-08c0-4039-9acb-a3ca6a304f23.svg)](https://wakatime.com/@018cd3d5-08c0-4039-9acb-a3ca6a304f23)
+
 <div align="center">
     <p>Hi, I am an 18-year-old web developer who is passionate about what I do. I like to approach tasks creatively and try to stay away from the term "spaghetti code" and as soon as I sit down at my laptop, I'm completely immersed in my work.
 <p> Thanks for stopping by!</p>
