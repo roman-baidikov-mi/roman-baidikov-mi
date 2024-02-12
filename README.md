@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=34&duration=3000&pause=3000&center=true&vCenter=true&repeat=true&random=false&width=900&height=90&lines=+Hello!+%F0%9F%91%8B+I'm+Baidikov+Roman+%F0%9F%87%BA%F0%9F%87%A6+)](https://git.io/typing-svg)
 
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/018cd3d5-08c0-4039-9acb-a3ca6a304f23.svg)](https://wakatime.com/@018cd3d5-08c0-4039-9acb-a3ca6a304f23)
 
 <div align="center">
