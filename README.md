@@ -34,6 +34,9 @@
     <a href='https://www.w3schools.com/php/php_intro.asp' title="PHP">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="42" alt="php logo"  />
     </a>
+    <a href='https://tailwindcss.com/' title="TailwindCSS">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="42" alt="tailwindcss logo"  />
+    </a>
     <a href='https://nextjs.org/docs' title="Nextjs">
         <svg viewBox="0 0 394 79" width="50" xmlns="http://www.w3.org/2000/svg" fill='white'>
             <path d="M261.919 0.0330722H330.547V12.7H303.323V79.339H289.71V12.7H261.919V0.0330722Z"></path>
