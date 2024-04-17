@@ -28,8 +28,6 @@ I am an 18-year-old web developer with a great passion for coding. I'm proficien
 ## Stats 📑
 [![wakatime](https://wakatime.com/badge/user/018cd3d5-08c0-4039-9acb-a3ca6a304f23.svg)](https://wakatime.com/@018cd3d5-08c0-4039-9acb-a3ca6a304f23)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=baidikov-roman-mi&theme=github-dark-blue&hide_border=false&mode=weekly&card_width=430&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=baidikov-roman-mi&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=10&theme=highcontrast&hide_border=false)
 
 ## Contact Me 📬
